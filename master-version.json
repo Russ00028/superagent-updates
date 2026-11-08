@@ -1,0 +1,13 @@
+{
+  "version": "1.0.1",
+  "released": "2026-11-09",
+  "notes": "v1.0.1 - MPOMaster dashboard. Password login (initial admin/admin, change after first login), node health polling, user push with password hashes, pause/resume queue and start/stop WD agent commands, auto-update support.",
+  "code": {
+    "url": "https://github.com/Russ00028/superagent-updates/releases/latest/download/MPOMaster-code.zip",
+    "sha256": "A00710AE27D7B2644AABD4F92BCE573B39EA1D42EAEE4C80A7F4B401D53E9787"
+  },
+  "full": {
+    "url": "https://github.com/Russ00028/superagent-updates/releases/latest/download/MPOMaster-full.zip",
+    "sha256": "9EF04227464CD996D6E38770AE281638AA79CAEE97C3D2A094268DF69AEB3744"
+  }
+}
