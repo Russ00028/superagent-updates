@@ -1,13 +1,13 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "released": "2026-11-09",
-  "notes": "v1.0.1 - MPOMaster dashboard. Password login (initial admin/admin, change after first login), node health polling, user push with password hashes, pause/resume queue and start/stop WD agent commands, auto-update support.",
+  "notes": "v1.0.2 - Master dashboard now shows who is using each Node (IN USE / LAST USED / IDLE) and bot-busy state (BOT WORKING / MONITORING). UI reports activity only while the tab is visible.",
   "code": {
     "url": "https://github.com/Russ00028/superagent-updates/releases/latest/download/MPOMaster-code.zip",
-    "sha256": "A00710AE27D7B2644AABD4F92BCE573B39EA1D42EAEE4C80A7F4B401D53E9787"
+    "sha256": "B16782CB14922D5914E7CA214EB5D4C13549226B28B87C7C3003DC8A31E3AB8C"
   },
   "full": {
     "url": "https://github.com/Russ00028/superagent-updates/releases/latest/download/MPOMaster-full.zip",
-    "sha256": "9D9BE467B0608FD563B06A1576A308D4FAE641BF3A8FC35568AE28DF92398508"
+    "sha256": "74740CCE8DBD7D9E471060868A70B6CD6E02C94DC369107B824FB52D6042FB21"
   }
 }
