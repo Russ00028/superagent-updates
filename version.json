@@ -1,0 +1,13 @@
+{
+  "version": "1.0.1",
+  "released": "2026-11-09",
+  "notes": "v1.0.1 - Initial admin account now defaults to password 'admin' (must change after first login). Node/Master user sync improvements and UI fixes.",
+  "code": {
+    "url": "https://github.com/Russ00028/superagent-updates/releases/latest/download/code-update.zip",
+    "sha256": "1AC8DAC7D64EB249C9B7BEA23631EF9BC9A8F288F7B7FC99C1B5C4E4FB33FBDD"
+  },
+  "full": {
+    "url": "https://github.com/Russ00028/superagent-updates/releases/latest/download/superagentv1-full.zip",
+    "sha256": "EDCCADDC8B766299E4F41491ECE99BE0C34C7D8516E0AB1E5E9375FF0BBCCCAE"
+  }
+}
