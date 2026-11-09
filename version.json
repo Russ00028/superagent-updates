@@ -1,13 +1,13 @@
 {
-  "version": "1.0.2",
-  "released": "2026-11-09",
-  "notes": "v1.0.2 - Master dashboard now shows who is using each Node (IN USE / LAST USED / IDLE) and bot-busy state (BOT WORKING / MONITORING). UI reports activity only while the tab is visible.",
-  "code": {
-    "url": "https://github.com/Russ00028/superagent-updates/releases/latest/download/code-update.zip",
-    "sha256": "7E75003E51CAD79FF322A807B7BBBEF955D11A6C2272786BDAD8EBFA4C982700"
-  },
-  "full": {
-    "url": "https://github.com/Russ00028/superagent-updates/releases/latest/download/superagentv1-full.zip",
-    "sha256": "5EACA3DF7D076E71ECDFC42773CCB95A420D2786D433DA4C2A358D8C0A4E9A41"
-  }
+    "version":  "1.0.3",
+    "released":  "2026-11-10",
+    "notes":  "v1.0.3 - One-click updates: Node Settings now has a single Update Now button that checks and installs in one click, and the Master dashboard can push full updates to any online Node or to all online Nodes at once. Bank Aliases settings gained a Restore defaults action.",
+    "code":  {
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/code-update.zip",
+                 "sha256":  "EBA24E7B3FD106A19B2977A90D9CDD520186B344CE16FDBEB59936F1C89282E2"
+             },
+    "full":  {
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/superagentv1-full.zip",
+                 "sha256":  "45BD16C4CB518B70A6AF01528AB949660257D9D061134F3DB424067EDE2097E7"
+             }
 }
