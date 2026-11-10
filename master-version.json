@@ -1,13 +1,13 @@
 {
-    "version":  "1.0.5",
-    "released":  "2026-11-10",
-    "notes":  "v1.0.5 - The Master dashboard can now auto-discover Superagent PCs on the LAN, rename Node aliases, and show who is using each Node. Master updates now use their own update channel with admin-only update controls.",
+    "version":  "1.0.7",
+    "released":  "2026-11-11",
+    "notes":  "v1.0.7 - MPOPLAY Master now uses the octopus logo icon with a transparent background (rebuilt Master package).",
     "code":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/MPOMaster-code.zip",
-                 "sha256":  "E31808C1DF8E242058E6AEBFAD5500D3DFD891BAB8880649BF910F17FB194D1B"
+                 "sha256":  "E3709721DB258CDCB8D05095EE33951CB132139DF4BF40180748ADCEA24CFA42"
              },
     "full":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/MPOMaster-full.zip",
-                 "sha256":  "AA75317BA0963D886F6353720B35239C0703076138EA1FA5EE879BEA6B5F0A21"
+                 "sha256":  "CB23CBABA0155188407650387DD419F3F80EDF8B91041A89CA84A695810A80A7"
              }
 }
