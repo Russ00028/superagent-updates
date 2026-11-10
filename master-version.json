@@ -1,13 +1,13 @@
 {
-    "version":  "1.0.3",
+    "version":  "1.0.5",
     "released":  "2026-11-10",
-    "notes":  "v1.0.3 - One-click updates: Node Settings now has a single Update Now button that checks and installs in one click, and the Master dashboard can push full updates to any online Node or to all online Nodes at once. Bank Aliases settings gained a Restore defaults action.",
+    "notes":  "v1.0.5 - The Master dashboard can now auto-discover Superagent PCs on the LAN, rename Node aliases, and show who is using each Node. Master updates now use their own update channel with admin-only update controls.",
     "code":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/MPOMaster-code.zip",
-                 "sha256":  "538709BB9DE222E8663DF747B0C55ADA630E856A1BBFBA643A7EEAEC7CEF94C6"
+                 "sha256":  "E31808C1DF8E242058E6AEBFAD5500D3DFD891BAB8880649BF910F17FB194D1B"
              },
     "full":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/MPOMaster-full.zip",
-                 "sha256":  "0BC9CDF7AA9D97474EA85843A4A2A0C0C7F7198F1ABE4CA0D7BBE28A2452F379"
+                 "sha256":  "AA75317BA0963D886F6353720B35239C0703076138EA1FA5EE879BEA6B5F0A21"
              }
 }
