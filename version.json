@@ -1,13 +1,13 @@
 {
-    "version":  "1.0.3",
+    "version":  "1.0.5",
     "released":  "2026-11-10",
-    "notes":  "v1.0.3 - One-click updates: Node Settings now has a single Update Now button that checks and installs in one click, and the Master dashboard can push full updates to any online Node or to all online Nodes at once. Bank Aliases settings gained a Restore defaults action.",
+    "notes":  "v1.0.5 - The Master dashboard can now auto-discover Superagent PCs on the LAN, rename Node aliases, and show who is using each Node. Master updates now use their own update channel with admin-only update controls.",
     "code":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/code-update.zip",
-                 "sha256":  "EBA24E7B3FD106A19B2977A90D9CDD520186B344CE16FDBEB59936F1C89282E2"
+                 "sha256":  "C56E7775A0230F681726CF42449657390DD0C426C373B5D1C32455DF9F772C9F"
              },
     "full":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/superagentv1-full.zip",
-                 "sha256":  "45BD16C4CB518B70A6AF01528AB949660257D9D061134F3DB424067EDE2097E7"
+                 "sha256":  "095F0042492677946BA048E92B1B617C49BCBD9E502F75966BB11BDD6A118E9A"
              }
 }
