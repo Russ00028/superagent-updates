@@ -4,10 +4,10 @@
     "notes":  "v2.0.0 - Major Performance Update: 50-75% faster with SQLite database, optimized modules, LRU caching, and lazy imports. Full modular architecture with core modules (config, database, bank_loader, device_manager, name_matcher). Production-ready with zero breaking changes.",
     "code":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/code-update.zip",
-                 "sha256":  "756521F5E4653C1F477FC5560FD59928AC552EE9A3960BFBE96377BCBC37F1C4"
+                 "sha256":  "4BC3458510CEFFAD067B90F2AC1D7A46B328D88FE65CF1B789271251BACB0DDC"
              },
     "full":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/superagentv2-full.zip",
-                 "sha256":  "858976E63BEC6AFF01FE4BF3B55FE6CC5E3A5EAEE985475E51F43970942E6BAB"
+                 "sha256":  "FAFBF8D5887A09AF1820564468419934A3E4E50C86E077D4C62622FF9D167B02"
              }
 }
