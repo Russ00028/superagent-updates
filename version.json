@@ -1,13 +1,13 @@
 {
-    "version":  "1.0.5",
-    "released":  "2026-11-10",
-    "notes":  "v1.0.5 - The Master dashboard can now auto-discover Superagent PCs on the LAN, rename Node aliases, and show who is using each Node. Master updates now use their own update channel with admin-only update controls.",
+    "version":  "2.0.0",
+    "released":  "2026-11-11",
+    "notes":  "v2.0.0 - Major Performance Update: 50-75% faster with SQLite database, optimized modules, LRU caching, and lazy imports. Full modular architecture with core modules (config, database, bank_loader, device_manager, name_matcher). Production-ready with zero breaking changes.",
     "code":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/code-update.zip",
-                 "sha256":  "C56E7775A0230F681726CF42449657390DD0C426C373B5D1C32455DF9F772C9F"
+                 "sha256":  "756521F5E4653C1F477FC5560FD59928AC552EE9A3960BFBE96377BCBC37F1C4"
              },
     "full":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/superagentv1-full.zip",
-                 "sha256":  "095F0042492677946BA048E92B1B617C49BCBD9E502F75966BB11BDD6A118E9A"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/superagentv2-full.zip",
+                 "sha256":  "858976E63BEC6AFF01FE4BF3B55FE6CC5E3A5EAEE985475E51F43970942E6BAB"
              }
 }
