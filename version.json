@@ -1,13 +1,13 @@
 {
-    "version":  "2.0.0",
-    "released":  "2026-11-11",
-    "notes":  "v2.0.0 - Major Performance Update: 50-75% faster with SQLite database, optimized modules, LRU caching, and lazy imports. Full modular architecture with core modules (config, database, bank_loader, device_manager, name_matcher). Production-ready with zero breaking changes.",
+    "version":  "2.0.1",
+    "released":  "2026-11-13",
+    "notes":  "v2.0.1 - Version refresh: unified SuperAgent v2.0.1 version labels across the flow selector, all web panels, and the Master dashboard, plus updated release manifests and packages.",
     "code":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/code-update.zip",
-                 "sha256":  "4BC3458510CEFFAD067B90F2AC1D7A46B328D88FE65CF1B789271251BACB0DDC"
+                 "sha256":  "999801EB8748BCD9A571219644FB012D186D2E18CF6FECA0D2F753AC754FDB83"
              },
     "full":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/superagentv2-full.zip",
-                 "sha256":  "FAFBF8D5887A09AF1820564468419934A3E4E50C86E077D4C62622FF9D167B02"
+                 "sha256":  "0BD206E6F1EB34953417E680E6218CC8C0AE7C3B18D2B104250FF735AA858508"
              }
 }
