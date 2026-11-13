@@ -1,13 +1,13 @@
 {
-    "version":  "2.0.0",
-    "released":  "2026-11-11",
-    "notes":  "v2.0.0 - Major Performance Update: 50-75% faster with SQLite database, optimized modules, LRU caching, and lazy imports. Full modular architecture with core modules (config, database, bank_loader, device_manager, name_matcher). Production-ready with zero breaking changes.",
+    "version":  "2.0.1",
+    "released":  "2026-11-13",
+    "notes":  "v2.0.1 - Version refresh: unified SuperAgent v2.0.1 version labels across the flow selector, all web panels, and the Master dashboard, plus updated release manifests and packages.",
     "code":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/MPOMasterv2-code.zip",
-                 "sha256":  "EDD0E7C7502B4EF19011E1B4AB1E940FCFEFBB5771E8B95F9D261F53661C2C31"
+                 "sha256":  "632C86A2C6767FB0ED3A062A21F1255CC1238DE4764E013799B850607296C744"
              },
     "full":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/MPOMasterv2-full.zip",
-                 "sha256":  "2DB4D271BCF4CFC33F45A42266B98D255BF6524153A6C6D6D41A43C556DE623D"
+                 "sha256":  "6E1AD449367B179DAAEFF550C46983F7F44CD825F3C9FE7F93EBB7047500BF18"
              }
 }
