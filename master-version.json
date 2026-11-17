@@ -1,13 +1,13 @@
 {
-    "version":  "1.0.7",
-    "released":  "2026-11-11",
-    "notes":  "v1.0.7 - MPOPLAY Master now uses the octopus logo icon with a transparent background (rebuilt Master package).",
+    "version":  "2.0.4",
+    "released":  "2026-11-18",
+    "notes":  "v2.0.4 - Master add/rename now stores a browser-local display alias so Node real names remain unchanged and aliases survive refresh.",
     "code":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/MPOMaster-code.zip",
-                 "sha256":  "E3709721DB258CDCB8D05095EE33951CB132139DF4BF40180748ADCEA24CFA42"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.0.4/MPOMasterv2-code.zip",
+                 "sha256":  "7BB09A3AFEF25F0C3949284703BD28B461A5B4730EE68C39CA7DF173A7AD8588"
              },
     "full":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/MPOMaster-full.zip",
-                 "sha256":  "CB23CBABA0155188407650387DD419F3F80EDF8B91041A89CA84A695810A80A7"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.0.4/MPOMasterv2-full.zip",
+                 "sha256":  "15D6B175687D7F0B7B932595BC114CCF9EDCD68BA75D42B05EC30D5C226FC3DE"
              }
 }
