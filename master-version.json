@@ -1,13 +1,13 @@
 {
-    "version":  "2.0.4",
+    "version":  "2.0.5",
     "released":  "2026-11-18",
-    "notes":  "v2.0.4 - Master add/rename now stores a browser-local display alias so Node real names remain unchanged and aliases survive refresh.",
+    "notes":  "v2.0.5 - Master rebuild with latest master dashboard and updater; Master versioning decoupled from node; update download URLs are tag-pinned for reliability (combined release with node v2.0.5)",
     "code":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.0.4/MPOMasterv2-code.zip",
-                 "sha256":  "7BB09A3AFEF25F0C3949284703BD28B461A5B4730EE68C39CA7DF173A7AD8588"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.0.5/MPOMasterv2-code.zip",
+                 "sha256":  "9873208DB55195764D3B990C201FC6A289A8415C57049637A7CE65DE64CD1DB3"
              },
     "full":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.0.4/MPOMasterv2-full.zip",
-                 "sha256":  "15D6B175687D7F0B7B932595BC114CCF9EDCD68BA75D42B05EC30D5C226FC3DE"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/MPOMasterv2-full.zip",
+                 "sha256":  "79F46073A247BEF2EB4CC1AB63450A8444354CDE1ABAFC482024C6EE170712F9"
              }
 }
