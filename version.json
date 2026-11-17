@@ -1,13 +1,13 @@
 {
-    "version":  "2.0.10",
+    "version":  "2.0.11",
     "released":  "2026-11-18",
-    "notes":  "v2.0.10 - Config persistence fix (Notes Rules now persist across refresh), thread safety improvements, init_agent_state fixes for all flows, critical bug fixes",
+    "notes":  "v2.0.11 - Note-held tickets now also go through the checker (screenshot validation) so you can verify validity before approving; held tickets wait in Agent UI pending",
     "code":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.0.10/code-update.zip",
-                 "sha256":  "8EDF06618C0239B4B3CD970B45183B3DF2FDFA4D091CA0064601483E5A2F395D"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.0.11/code-update.zip",
+                 "sha256":  "A7DB47759F0637BB3AB7BC57E3EBDE87C89E580480DE0DD9471C341F79AF60DD"
              },
     "full":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.0.10/superagentv2-full.zip",
-                 "sha256":  "6C49123E6E5A2C5A2CB21E67E541A6A5868716A8AF523A8316A73C5A0542D09B"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.0.11/superagentv2-full.zip",
+                 "sha256":  "903535D9D3A8CF6F1E32621ED005BE307CC0FFF67C350A836BCC0FD90BFF1A19"
              }
 }
