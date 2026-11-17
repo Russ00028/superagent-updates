@@ -3,11 +3,11 @@
     "released":  "2026-11-18",
     "notes":  "v2.0.4 - Master add/rename now stores a browser-local display alias so Node real names remain unchanged and aliases survive refresh.",
     "code":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/MPOMasterv2-code.zip",
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.0.4/MPOMasterv2-code.zip",
                  "sha256":  "7BB09A3AFEF25F0C3949284703BD28B461A5B4730EE68C39CA7DF173A7AD8588"
              },
     "full":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/MPOMasterv2-full.zip",
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.0.4/MPOMasterv2-full.zip",
                  "sha256":  "15D6B175687D7F0B7B932595BC114CCF9EDCD68BA75D42B05EC30D5C226FC3DE"
              }
 }
