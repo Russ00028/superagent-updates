@@ -1,13 +1,13 @@
 {
-    "version":  "2.0.2",
+    "version":  "2.0.3",
     "released":  "2026-11-17",
-    "notes":  "v2.0.2 - Build fixes: compiled Node now initializes SQLite transaction storage correctly (config folder creation and UTF-8 console setup) and the WD Agent loads again (logging.handlers bundled). Node and Master rebuilt and manifests refreshed.",
+    "notes":  "v2.0.3 - Master release refresh for testing the in-app update button. Master binaries are unchanged from v2.0.2. Node packages remain at v2.0.2.",
     "code":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/MPOMasterv2-code.zip",
-                 "sha256":  "43E190BA81CA5D48142E8D2DE5BDE8AA8B80F80AFC1FE7F252473F941C0639D8"
+                 "sha256":  "C3A8E049F07EC85439172A537238912C7C1C23804FB0D310C4529A0B496DEF18"
              },
     "full":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/MPOMasterv2-full.zip",
-                 "sha256":  "C4B12657BBE645C258714A53E1E7ACC8951DDA27E6FF62C57B4AA287AE1E6EB0"
+                 "sha256":  "15D6B175687D7F0B7B932595BC114CCF9EDCD68BA75D42B05EC30D5C226FC3DE"
              }
 }
