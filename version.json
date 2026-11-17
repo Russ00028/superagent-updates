@@ -1,10 +1,10 @@
 {
-    "version":  "2.0.6",
+    "version":  "2.0.7",
     "released":  "2026-11-18",
-    "notes":  "v2.0.6 - Shorten Teams INVALID and NO MATCH alerts to user + status before the screenshot.",
+    "notes":  "v2.0.7 - Add DatabaseAdapter.extend so baseline scan and withdraw list monitoring work again.",
     "code":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/code-update.zip",
-                 "sha256":  "EF5468240814CD81D38C75878DA97C225BC325C06E74CCF4C7E3FE9A4778BC89"
+                 "sha256":  "FAFBAD5C85244A4084F705739BD4FC059EF2FC6B4514D40B796539CC265555B8"
              },
     "full":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/superagentv2-full.zip",
