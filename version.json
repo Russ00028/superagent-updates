@@ -1,13 +1,13 @@
 {
-    "version":  "2.0.1",
-    "released":  "2026-11-13",
-    "notes":  "v2.0.1 - Version refresh: unified SuperAgent v2.0.1 version labels across the flow selector, all web panels, and the Master dashboard, plus updated release manifests and packages.",
+    "version":  "2.0.2",
+    "released":  "2026-11-17",
+    "notes":  "v2.0.2 - Build fixes: compiled Node now initializes SQLite transaction storage correctly (config folder creation and UTF-8 console setup) and the WD Agent loads again (logging.handlers bundled). Node and Master rebuilt and manifests refreshed.",
     "code":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/code-update.zip",
-                 "sha256":  "999801EB8748BCD9A571219644FB012D186D2E18CF6FECA0D2F753AC754FDB83"
+                 "sha256":  "CA606E4535D2647D1637E9A40D936663D1685CC8FF60BB7D0DED53AC83E4929D"
              },
     "full":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/superagentv2-full.zip",
-                 "sha256":  "0BD206E6F1EB34953417E680E6218CC8C0AE7C3B18D2B104250FF735AA858508"
+                 "sha256":  "9C5FC50F71F5CCBC0A04F52A9314CDD50EEA51EBB32D7424D46FBE63E0A4F1D1"
              }
 }
