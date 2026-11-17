@@ -1,10 +1,10 @@
 {
-    "version":  "2.0.5",
+    "version":  "2.0.6",
     "released":  "2026-11-18",
-    "notes":  "v2.0.5 - Fix Agent Config Notes fields to save and reload manual/hold notes and hold mode; includes wd_agent updates from v2.0.4. Apps restart may be required.",
+    "notes":  "v2.0.6 - Shorten Teams INVALID and NO MATCH alerts to user + status before the screenshot.",
     "code":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/code-update.zip",
-                 "sha256":  "8EFAE191912DE16B742ABC089168D0AB5511A8835AD2387F5FC7E5B7FFE53CA3"
+                 "sha256":  "EF5468240814CD81D38C75878DA97C225BC325C06E74CCF4C7E3FE9A4778BC89"
              },
     "full":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/superagentv2-full.zip",
