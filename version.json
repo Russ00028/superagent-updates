@@ -1,13 +1,13 @@
 {
-    "version": "2.0.9",
-    "released": "2026-11-18",
-    "notes": "v2.0.9 - Full rebuild: DatabaseAdapter.extend for baseline scans, Notes Rules persist, panel version HTML bump.",
-    "code": {
-        "url": "https://github.com/Russ00028/superagent-updates/releases/latest/download/code-update.zip",
-        "sha256": "B2A628A3502B7CDEA6413E454EF18DD5773463386CD9B9C7033911FA836C83AE"
-    },
-    "full": {
-        "url": "https://github.com/Russ00028/superagent-updates/releases/latest/download/superagentv2-full.zip",
-        "sha256": "AED885C5C33408CFCF7C7298EABFCD24E87998BAD80D090BFC12E56C0F59B21F"
-    }
+    "version":  "2.0.10",
+    "released":  "2026-11-18",
+    "notes":  "v2.0.10 - Config persistence fix (Notes Rules now persist across refresh), thread safety improvements, init_agent_state fixes for all flows, critical bug fixes",
+    "code":  {
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/code-update.zip",
+                 "sha256":  "8EDF06618C0239B4B3CD970B45183B3DF2FDFA4D091CA0064601483E5A2F395D"
+             },
+    "full":  {
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/superagentv2-full.zip",
+                 "sha256":  "6C49123E6E5A2C5A2CB21E67E541A6A5868716A8AF523A8316A73C5A0542D09B"
+             }
 }
