@@ -1,10 +1,10 @@
 {
-    "version":  "2.0.7",
+    "version":  "2.0.8",
     "released":  "2026-11-18",
-    "notes":  "v2.0.7 - Add DatabaseAdapter.extend so baseline scan and withdraw list monitoring work again.",
+    "notes":  "v2.0.8 - Cache-bust Agent JavaScript so the Notes Rules save and reload fix is actually used after refresh.",
     "code":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/code-update.zip",
-                 "sha256":  "FAFBAD5C85244A4084F705739BD4FC059EF2FC6B4514D40B796539CC265555B8"
+                 "sha256":  "2A7576D6B0A1ADB0E5396C8F8130CF08DE011080BD7DB7EB2B98AE8AE83E7D96"
              },
     "full":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/superagentv2-full.zip",
