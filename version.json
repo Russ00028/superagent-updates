@@ -1,10 +1,10 @@
 {
-    "version":  "2.0.2",
-    "released":  "2026-11-17",
-    "notes":  "v2.0.2 - Build fixes: compiled Node now initializes SQLite transaction storage correctly (config folder creation and UTF-8 console setup) and the WD Agent loads again (logging.handlers bundled). Node and Master rebuilt and manifests refreshed.",
+    "version":  "2.0.4",
+    "released":  "2026-11-18",
+    "notes":  "v2.0.4 - Bank Source lazy-load fix (double-click Bank Source, search account, Enter), obscure-note handling across active scrapers, and Agent restart required after update.",
     "code":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/code-update.zip",
-                 "sha256":  "CA606E4535D2647D1637E9A40D936663D1685CC8FF60BB7D0DED53AC83E4929D"
+                 "sha256":  "05EF30D2B025934FA5AD15D3D96073EDB4A59981E95093B45BD0737F4ED58E64"
              },
     "full":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/superagentv2-full.zip",
