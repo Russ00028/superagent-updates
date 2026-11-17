@@ -1,10 +1,10 @@
 {
-    "version":  "2.0.3",
-    "released":  "2026-11-17",
-    "notes":  "v2.0.3 - Master release refresh for testing the in-app update button. Master binaries are unchanged from v2.0.2. Node packages remain at v2.0.2.",
+    "version":  "2.0.4",
+    "released":  "2026-11-18",
+    "notes":  "v2.0.4 - Master add/rename now stores a browser-local display alias so Node real names remain unchanged and aliases survive refresh.",
     "code":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/MPOMasterv2-code.zip",
-                 "sha256":  "C3A8E049F07EC85439172A537238912C7C1C23804FB0D310C4529A0B496DEF18"
+                 "sha256":  "7BB09A3AFEF25F0C3949284703BD28B461A5B4730EE68C39CA7DF173A7AD8588"
              },
     "full":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/MPOMasterv2-full.zip",
