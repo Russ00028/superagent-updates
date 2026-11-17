@@ -1,13 +1,13 @@
 {
-    "version":  "2.0.8",
+    "version":  "2.0.9",
     "released":  "2026-11-18",
-    "notes":  "v2.0.8 - Cache-bust Agent JavaScript so the Notes Rules save and reload fix is actually used after refresh.",
+    "notes":  "v2.0.9 - Full rebuild: DatabaseAdapter.extend for baseline scans, Notes Rules persist, panel version HTML bump.",
     "code":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/code-update.zip",
-                 "sha256":  "2A7576D6B0A1ADB0E5396C8F8130CF08DE011080BD7DB7EB2B98AE8AE83E7D96"
+                 "sha256":  "B2A628A3502B7CDEA6413E454EF18DD5773463386CD9B9C7033911FA836C83AE"
              },
     "full":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/superagentv2-full.zip",
-                 "sha256":  "D8D957851882663BB2AF2871AE0969AB67F4391D63D4C0DBB688458690B73E81"
+                 "sha256":  "74A06BB56B93859A5622BEB87B96F9506C128B7427957F91302059A79548810E"
              }
 }
