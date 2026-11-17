@@ -4,10 +4,10 @@
     "notes":  "v2.0.5 - Master rebuild with latest master dashboard and updater; Master versioning decoupled from node; update download URLs are tag-pinned for reliability (combined release with node v2.0.5)",
     "code":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.0.5/MPOMasterv2-code.zip",
-                 "sha256":  "9873208DB55195764D3B990C201FC6A289A8415C57049637A7CE65DE64CD1DB3"
+                 "sha256":  "F942320137958019551DFB58EB297A926EE206A2E98751AB1ECAF0E1625A2186"
              },
     "full":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/latest/download/MPOMasterv2-full.zip",
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.0.5/MPOMasterv2-full.zip",
                  "sha256":  "79F46073A247BEF2EB4CC1AB63450A8444354CDE1ABAFC482024C6EE170712F9"
              }
 }
