@@ -1,10 +1,10 @@
 {
-    "version":  "2.1.0",
+    "version":  "2.1.1",
     "released":  "2026-11-18",
-    "notes":  "v2.1.0 - Reliable Teams screenshot sending: direct paste without clipboard, waits for image upload, verifies message sent (with retry).",
+    "notes":  "v2.1.1 - Auto remark text is now configurable via auto_remark_template in bot_config.json (placeholders: {BANK}, {DEVICE}, {STATUS}).",
     "code":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.1.0/code-update.zip",
-                 "sha256":  "00B351238A8EEDA2D4F583CDC92DE694CA6E5D431F09E820766039C6317A978B"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.1.1/code-update.zip",
+                 "sha256":  "11EED3F3D39B0232E7157FB92488A94AEB4477B89B0DB8260CCAEEE3C577DDAA"
              },
     "full":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.0.11/superagentv2-full.zip",
