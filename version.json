@@ -1,13 +1,13 @@
 {
-    "version":  "2.1.4",
+    "version":  "2.1.5",
     "released":  "2026-11-19",
-    "notes":  "v2.1.4 - Rebuilt SuperAgent.exe so the Auto-Remark Template API is included. Fixes Failed to fetch / HTML JSON errors in the Auto-Remark editor, initializes server config on startup, and saves templates atomically. Apply the FULL update: code update cannot replace the embedded server.",
+    "notes":  "v2.1.5 - Added bounded auto-approval verification/retry (10 checks, 15s apart) and fixed script approval lock ordering; stop and approve manually if still pending.",
     "code":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.1.4/code-update.zip",
-                 "sha256":  "9BEEBAB069F1FAD7BD01DEDD8F898724F32853E14E0B5C225A330FAAB285900F"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.1.5/code-update.zip",
+                 "sha256":  "1F5257A7EA87CC328E64CDB03179E12AA2CA74FCCEA55007C4FCE9C871444240"
              },
     "full":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.1.4/superagentv2-full.zip",
-                 "sha256":  "E3FEF698CFA29EFCAB1AB20D52568FC3E7BDA9846D9B1BEF4C2A583CB6B58634"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.1.5/superagentv2-full.zip",
+                 "sha256":  "A8C011796390C6255CC532EF22BA83018FF023779B6BDE0C02222D23A2C5D9DE"
              }
 }
