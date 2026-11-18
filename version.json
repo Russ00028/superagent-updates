@@ -1,13 +1,13 @@
 {
-    "version":  "2.0.11",
+    "version":  "2.1.0",
     "released":  "2026-11-18",
-    "notes":  "v2.0.11 - Note-held tickets now also go through the checker (screenshot validation) so you can verify validity before approving; held tickets wait in Agent UI pending",
+    "notes":  "v2.1.0 - Reliable Teams screenshot sending: direct paste without clipboard, waits for image upload, verifies message sent (with retry).",
     "code":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.0.11/code-update.zip",
-                 "sha256":  "A7DB47759F0637BB3AB7BC57E3EBDE87C89E580480DE0DD9471C341F79AF60DD"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.1.0/code-update.zip",
+                 "sha256":  "00B351238A8EEDA2D4F583CDC92DE694CA6E5D431F09E820766039C6317A978B"
              },
     "full":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.0.11/superagentv2-full.zip",
-                 "sha256":  "903535D9D3A8CF6F1E32621ED005BE307CC0FFF67C350A836BCC0FD90BFF1A19"
+                 "sha256":  "903535d9d3a8cf6f1e32621ed005be307cc0fff67c350a836bcc0fd90bff1a19"
              }
 }
