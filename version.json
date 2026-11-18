@@ -1,13 +1,13 @@
 {
-    "version":  "2.1.6",
+    "version":  "2.1.7",
     "released":  "2026-11-19",
-    "notes":  "v2.1.6 - Hold notes force Manual Bot method + Auto-remark pauses monitoring to avoid browser lock conflicts. Ensures auto-remark always succeeds after successful transactions.",
+    "notes":  "v2.1.7 - Code update.",
     "code":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.1.6/code-update.zip",
-                 "sha256":  "EAC39E59A46201B1816ACD17A349426E54CD9A0FCD1D970080AB7A6907EE1BB2"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.1.7/code-update.zip",
+                 "sha256":  "094A4DEB74F1F30D29581459B02AC5793F56BED7AD02E024EE939982807E3862"
              },
     "full":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.1.6/superagentv2-full.zip",
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.1.7/superagentv2-full.zip",
                  "sha256":  "A8C011796390C6255CC532EF22BA83018FF023779B6BDE0C02222D23A2C5D9DE"
              }
 }
