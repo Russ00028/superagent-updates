@@ -1,13 +1,13 @@
 {
-    "version":  "2.1.2",
-    "released":  "2026-11-18",
-    "notes":  "v2.1.2 - Auto-Remark Template editor in Settings with live preview (saved to bot_config.json, hot-reloaded), dynamic version display in all panels, and BIAYA fee rows are now only logged for successful transactions.",
+    "version":  "2.1.3",
+    "released":  "2026-11-19",
+    "notes":  "v2.1.3 - Full release package refreshed with all v2.1.2 features: Auto-Remark Template editor, dynamic version display, Google Sheet remark fix, and fee-row fix.",
     "code":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.1.2/code-update.zip",
-                 "sha256":  "207C2A051F88492A888089F79186ECDB9B661757422106B3C6B02A97554A8F29"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.1.3/code-update.zip",
+                 "sha256":  "B3A13581EB93E2273513154A06433BD6319BF43BB8DADB819CAB5F1C7986F49B"
              },
     "full":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.0.11/superagentv2-full.zip",
-                 "sha256":  "903535d9d3a8cf6f1e32621ed005be307cc0fff67c350a836bcc0fd90bff1a19"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.1.3/superagentv2-full.zip",
+                 "sha256":  "386BFED9A0E25E24434D029F0B620160EA8430BBB8ABBA1914CFE6477B3ADCD6"
              }
 }
