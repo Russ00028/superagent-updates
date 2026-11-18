@@ -1,13 +1,13 @@
 {
-    "version":  "2.1.3",
+    "version":  "2.1.4",
     "released":  "2026-11-19",
-    "notes":  "v2.1.3 - Full release package refreshed with all v2.1.2 features: Auto-Remark Template editor, dynamic version display, Google Sheet remark fix, and fee-row fix.",
+    "notes":  "v2.1.4 - Rebuilt SuperAgent.exe so the Auto-Remark Template API is included. Fixes Failed to fetch / HTML JSON errors in the Auto-Remark editor, initializes server config on startup, and saves templates atomically. Apply the FULL update: code update cannot replace the embedded server.",
     "code":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.1.3/code-update.zip",
-                 "sha256":  "B3A13581EB93E2273513154A06433BD6319BF43BB8DADB819CAB5F1C7986F49B"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.1.4/code-update.zip",
+                 "sha256":  "9BEEBAB069F1FAD7BD01DEDD8F898724F32853E14E0B5C225A330FAAB285900F"
              },
     "full":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.1.3/superagentv2-full.zip",
-                 "sha256":  "386BFED9A0E25E24434D029F0B620160EA8430BBB8ABBA1914CFE6477B3ADCD6"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.1.4/superagentv2-full.zip",
+                 "sha256":  "E3FEF698CFA29EFCAB1AB20D52568FC3E7BDA9846D9B1BEF4C2A583CB6B58634"
              }
 }
