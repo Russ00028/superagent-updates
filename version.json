@@ -1,10 +1,10 @@
 {
-    "version":  "2.1.1",
+    "version":  "2.1.2",
     "released":  "2026-11-18",
-    "notes":  "v2.1.1 - Auto remark text is now configurable via auto_remark_template in bot_config.json (placeholders: {BANK}, {DEVICE}, {STATUS}).",
+    "notes":  "v2.1.2 - Auto-Remark Template editor in Settings with live preview (saved to bot_config.json, hot-reloaded), dynamic version display in all panels, and BIAYA fee rows are now only logged for successful transactions.",
     "code":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.1.1/code-update.zip",
-                 "sha256":  "11EED3F3D39B0232E7157FB92488A94AEB4477B89B0DB8260CCAEEE3C577DDAA"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.1.2/code-update.zip",
+                 "sha256":  "207C2A051F88492A888089F79186ECDB9B661757422106B3C6B02A97554A8F29"
              },
     "full":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.0.11/superagentv2-full.zip",
