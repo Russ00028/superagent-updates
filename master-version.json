@@ -1,13 +1,13 @@
 {
-    "version":  "2.1.6",
-    "released":  "2026-11-19",
-    "notes":  "v2.1.6 - Master release carrying the same bounded auto-approval verification/retry update as Superagent v2.1.5.",
+    "version":  "2.2.1",
+    "released":  "2026-11-21",
+    "notes":  "v2.2.1 - Device HTML naming update.",
     "code":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.1.6/MPOMasterv2-code.zip",
-                 "sha256":  "69F313D6AADAAA1182099BEF312D9D4FE21424A2D1C960C1A9980741C83DCE79"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.2.1/MPOMasterv2-code.zip",
+                 "sha256":  "B2CA7EDAD9A54B1443560DD61511E1769E610DFBF19B1B635FA33FA18D7A96A2"
              },
     "full":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.1.6/MPOMasterv2-full.zip",
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.2.1/MPOMasterv2-full.zip",
                  "sha256":  "659C824D7B5465F6B9A0441F0DFBFE75DEA72DB2390F461D798CDBB9FF645757"
              }
 }
