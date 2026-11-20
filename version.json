@@ -1,10 +1,10 @@
 {
     "version":  "2.2.2",
     "released":  "2026-11-20",
-    "notes":  "v2.2.2 - Log cleanup: collection noise removed, agent quiet, agent activity in Activity Log, auto-remark prefix removed.",
+    "notes":  "v2.2.2 - Log cleanup: collection noise removed, agent quiet, agent activity in Activity Log, auto-remark prefix removed, sheet logger fix.",
     "code":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.2.2/code-update.zip",
-                 "sha256":  "EC7F967B181496017D19A91ED90EA43B5AEBC2F91FFFAEED58B4BF26B7B87522"
+                 "sha256":  "9A72163D4F0D6EF9E7489714C2E12F09EF3EF85AE891D5C41C1396653F35039A"
              },
     "full":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.2.2/superagentv2-full.zip",
