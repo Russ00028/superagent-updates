@@ -1,13 +1,13 @@
 {
-    "version":  "2.1.7",
-    "released":  "2026-11-19",
-    "notes":  "v2.1.7 - Code update.",
+    "version":  "2.2.1",
+    "released":  "2026-11-20",
+    "notes":  "v2.2.1 - Log cleanup: collection noise removed, agent quiet, agent activity in Activity Log.",
     "code":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.1.7/code-update.zip",
-                 "sha256":  "094A4DEB74F1F30D29581459B02AC5793F56BED7AD02E024EE939982807E3862"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.2.1/code-update.zip",
+                 "sha256":  "296B9D3FA5852DA84264A3AE49E38ED8FF0EF81AA8CF461AAC4E34B3897DBD36"
              },
     "full":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.1.7/superagentv2-full.zip",
-                 "sha256":  "A8C011796390C6255CC532EF22BA83018FF023779B6BDE0C02222D23A2C5D9DE"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.2.1/superagentv2-full.zip",
+                 "sha256":  "C1D1314308CDD1993E8513E2200A956A7371E753E10FE0637E52420123DA2F67"
              }
 }
