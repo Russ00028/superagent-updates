@@ -1,13 +1,13 @@
 {
-    "version":  "2.2.4",
+    "version":  "2.3.0",
     "released":  "2026-11-21",
-    "notes":  "v2.2.4 - Device HTML naming update.",
+    "notes":  "v2.3.0 - Superagent and Master release.",
     "code":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.2.4/code-update.zip",
-                 "sha256":  "8BB52695C5D5BDD0954C03D7180BC0355815F7190A2C5DC86110AAE6676D49CB"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.0/code-update.zip",
+                 "sha256":  "53EA346DC6BF69AC95C62B21060BDE3611E7DB5A63B139239C4BE91564A1C081"
              },
     "full":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.2.4/superagentv2-full.zip",
-                 "sha256":  "188FD52D3A98D20CF72C760820C8504C2C6D3A0DF1309AAD8E1E59798530AB4D"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.0/superagentv2-full.zip",
+                 "sha256":  "0431C77DD7A06425B79D0F0F876A4B20EF83831695283144358CE268D07EC940"
              }
 }
