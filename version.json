@@ -1,13 +1,13 @@
 {
-    "version":  "2.3.2",
+    "version":  "2.3.3",
     "released":  "2026-11-22",
-    "notes":  "v2.3.2 - Bug fix: OBSCURE notes now correctly force MANUAL BOT processing instead of going through MPay automation. Changed action from 'send' to 'hold_note' in 5 locations in wd_agent.py to ensure OBSCURE notes are held for manual verification only.",
+    "notes":  "v2.3.3 - Bug fixes: (1) OBSCURE notes now force MANUAL BOT processing, (2) Rate limiting fixed - localhost exempt, web panel no longer blocked after 40 seconds of use. Increased remote IP limit from 50/hour to 2000/hour.",
     "code":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.2/code-update.zip",
-                 "sha256":  null
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.3/code-update.zip",
+                 "sha256":  "DD0C1218A11101DDB2CF15622C21A334ECE89BF7D79FFF03E88A374F45D41A93"
              },
     "full":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.2/superagentv2-full.zip",
-                 "sha256":  null
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.3/superagentv2-full.zip",
+                 "sha256":  "205920510F48DBE95D554BE2B50D00528E9D5AF64A97A8D199D180713EE141D5"
              }
 }
