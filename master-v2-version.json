@@ -1,13 +1,13 @@
 {
-    "version":  "2.2.1",
+    "version":  "2.3.0",
     "released":  "2026-11-21",
-    "notes":  "v2.2.1 - Device HTML naming update.",
+    "notes":  "v2.3.0 - Superagent and Master release.",
     "code":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.2.1/MPOMasterv2-code.zip",
-                 "sha256":  "B2CA7EDAD9A54B1443560DD61511E1769E610DFBF19B1B635FA33FA18D7A96A2"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.0/MPOMasterv2-code.zip",
+                 "sha256":  "1B6324662391A1DB43F488132F215D1EBB25EDD0C740C10C5A16B072720C5814"
              },
     "full":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.2.1/MPOMasterv2-full.zip",
-                 "sha256":  "659C824D7B5465F6B9A0441F0DFBFE75DEA72DB2390F461D798CDBB9FF645757"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.0/MPOMasterv2-full.zip",
+                 "sha256":  "DCE577FA2438361DD3FBC6D0B918220A335B8B21DC63C120769A6AE3900DB83C"
              }
 }
