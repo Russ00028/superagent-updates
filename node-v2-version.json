@@ -1,13 +1,13 @@
 {
     "released":  "2026-11-22",
     "code":  {
-                 "sha256":  "A7CB81A39863F0D7EDC5567E963C42028CBDF1C583CE13D9D74F7C2C399C3709",
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.2/code-update.zip"
+                 "sha256":  "DD0C1218A11101DDB2CF15622C21A334ECE89BF7D79FFF03E88A374F45D41A93",
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.3/code-update.zip"
              },
     "full":  {
-                 "sha256":  "9E6DC8950E517DD31B2C992996F32174255EDA7941630094B6E4DAFD08C243A9",
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.2/superagentv2-full.zip"
+                 "sha256":  "205920510F48DBE95D554BE2B50D00528E9D5AF64A97A8D199D180713EE141D5",
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.3/superagentv2-full.zip"
              },
-    "version":  "2.3.2",
-    "notes":  "v2.3.2 - Bug Fix: OBSCURE notes now force MANUAL BOT processing instead of MPay automation. Critical fix for transaction verification workflow."
+    "version":  "2.3.3",
+    "notes":  "v2.3.3 - Critical fixes: (1) OBSCURE notes force MANUAL BOT, (2) Rate limiting - localhost exempt, panel usable without 40-second blocks."
 }
