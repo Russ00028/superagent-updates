@@ -4,10 +4,10 @@
     "notes":  "v2.3.0 - Superagent and Master release.",
     "code":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.0/code-update.zip",
-                 "sha256":  "53EA346DC6BF69AC95C62B21060BDE3611E7DB5A63B139239C4BE91564A1C081"
+                 "sha256":  "C8927C262262A2EF3945C0742DD69AFEE503208AC00E1675CAADACF554B6729F"
              },
     "full":  {
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.0/superagentv2-full.zip",
-                 "sha256":  "0431C77DD7A06425B79D0F0F876A4B20EF83831695283144358CE268D07EC940"
+                 "sha256":  "C8A127A8CC6F34A85D099545849827608D3E6F9B4875E2DECC408C6FD57876D4"
              }
 }
