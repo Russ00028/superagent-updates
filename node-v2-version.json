@@ -1,7 +1,7 @@
 {
     "released":  "2025-01-15",
     "code":  {
-                 "sha256":  "BAD95C45DA03F65F4C3420EBD8DAD6667BD522D7C9853E8559614C242737817C",
+                 "sha256":  null,
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.1/code-update.zip"
              },
     "full":  {
@@ -9,5 +9,5 @@
                  "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.1/superagentv2-full.zip"
              },
     "version":  "2.3.1",
-    "notes":  "v2.3.1 - Production Ready Release (UPDATED): Score 9.0/10. Security hardening, automated backups, performance optimization. Latest fixes included."
+    "notes":  "v2.3.1 - Production Ready (COMPLETE): Includes BOTH Node and Master. Score 9.0/10. Security, reliability, performance improvements."
 }
