@@ -1,13 +1,13 @@
 {
-    "version":  "2.3.4",
+    "version":  "2.3.5",
     "released":  "2026-11-22",
-    "notes":  "v2.3.4 - SuperAgent and Master version alignment. Master updater: separate master version file, master-only update packages, settings fix.",
+    "notes":  "v2.3.5 - Rate limit fix: Flask-Limiter empty key on localhost now exempt (no more empty-value skip errors).",
     "code":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.4/code-update.zip",
-                 "sha256":  "62832EAAE7CD5F05B385BB7244AEB19A452FD8336FF14DFC53AF6AF19EA72339"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.5/code-update.zip",
+                 "sha256":  "D7FE101C3D932F6A44F9456AA062A899AF840634C3160394F076229A719A7BBB"
              },
     "full":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.4/superagentv2-full.zip",
-                 "sha256":  "D2A86E2BC80A9876DB3E412A97BD0BFDA0C29A834DEC5A4AE07EF826AECD0B4F"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.5/superagentv2-full.zip",
+                 "sha256":  "20E0B410C0CCD6301FF58CCE20A3614A785466BBADD577EE803215ACA56755F2"
              }
 }
