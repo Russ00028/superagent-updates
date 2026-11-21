@@ -1,13 +1,13 @@
 {
-    "version":  "2.3.5",
+    "version":  "2.3.6",
     "released":  "2026-11-22",
-    "notes":  "v2.3.5 - Rate limit fix: Flask-Limiter empty key on localhost now exempt (no more empty-value skip errors).",
+    "notes":  "v2.3.6 - OBSCURE notes send to Teams + force manual bot; auto-reject holds in pending.",
     "code":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.5/code-update.zip",
-                 "sha256":  "D7FE101C3D932F6A44F9456AA062A899AF840634C3160394F076229A719A7BBB"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.6/code-update.zip",
+                 "sha256":  "5134D84CB1167501A068FC387A4BB338808DC999B49A79014F95980631A73276"
              },
     "full":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.5/superagentv2-full.zip",
-                 "sha256":  "20E0B410C0CCD6301FF58CCE20A3614A785466BBADD577EE803215ACA56755F2"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.6/superagentv2-full.zip",
+                 "sha256":  "F23735B13B6746DA78FFFEB92620A45EB880DFD630374246A728AA2A7B43C84D"
              }
 }
