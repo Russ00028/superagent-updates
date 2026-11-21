@@ -1,13 +1,13 @@
 {
+    "version":  "2.3.4",
     "released":  "2026-11-22",
+    "notes":  "v2.3.4 - SuperAgent and Master version alignment. Master updater: separate master version file, master-only update packages, settings fix.",
     "code":  {
-                 "sha256":  "DD0C1218A11101DDB2CF15622C21A334ECE89BF7D79FFF03E88A374F45D41A93",
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.3/code-update.zip"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.4/code-update.zip",
+                 "sha256":  "62832EAAE7CD5F05B385BB7244AEB19A452FD8336FF14DFC53AF6AF19EA72339"
              },
     "full":  {
-                 "sha256":  "205920510F48DBE95D554BE2B50D00528E9D5AF64A97A8D199D180713EE141D5",
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.3/superagentv2-full.zip"
-             },
-    "version":  "2.3.3",
-    "notes":  "v2.3.3 - Critical fixes: (1) OBSCURE notes force MANUAL BOT, (2) Rate limiting - localhost exempt, panel usable without 40-second blocks."
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.4/superagentv2-full.zip",
+                 "sha256":  "D2A86E2BC80A9876DB3E412A97BD0BFDA0C29A834DEC5A4AE07EF826AECD0B4F"
+             }
 }
