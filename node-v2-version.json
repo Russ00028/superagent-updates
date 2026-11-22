@@ -1,13 +1,13 @@
 {
-    "version":  "2.3.7",
+    "version":  "2.4.0",
     "released":  "2026-11-22",
-    "notes":  "v2.3.7 - OBSCURE/HOLD unified send logic + manual bot; auto-reject holds in pending; rate limit fix.",
+    "notes":  "v2.4.0 - Full build release. SuperAgent: OBSCURE/HOLD unified send logic + manual bot; auto-reject holds; rate limit fix.",
     "code":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.7/code-update.zip",
-                 "sha256":  "B21BF4EAAB12E539CB659C383D6DCFBCE79E55145B30B6C97560705F9B1D520B"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.4.0/code-update.zip",
+                 "sha256":  "79051C13088B9C4C60EE8FD3AD18E190AB373A839FAF669B39166095AE36F609"
              },
     "full":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.6/superagentv2-full.zip",
-                 "sha256":  "f23735b13b6746da78fffeb92620a45eb880dfd630374246a728aa2a7b43c84d"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.4.0/superagentv2-full.zip",
+                 "sha256":  "BBCAADF5D52B3824C2E1B532367438F8CEA0B485C9016CBBE00057E7E23E408F"
              }
 }
