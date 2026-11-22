@@ -1,13 +1,13 @@
 {
-    "version":  "2.3.6",
+    "version":  "2.3.7",
     "released":  "2026-11-22",
-    "notes":  "v2.3.6 - OBSCURE notes send to Teams + force manual bot; auto-reject holds in pending.",
+    "notes":  "v2.3.7 - OBSCURE/HOLD unified send logic + manual bot; auto-reject holds in pending; rate limit fix.",
     "code":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.6/code-update.zip",
-                 "sha256":  "5134D84CB1167501A068FC387A4BB338808DC999B49A79014F95980631A73276"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.7/code-update.zip",
+                 "sha256":  "0B214F1399A887D13D4C28A339AC06BB45C38F3DFE9C04593254DC3CA5C6248F"
              },
     "full":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.6/superagentv2-full.zip",
-                 "sha256":  "F23735B13B6746DA78FFFEB92620A45EB880DFD630374246A728AA2A7B43C84D"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.7/superagentv2-full.zip",
+                 "sha256":  "0B4B7311EB67FFD753F9A080BE64337BBF418A3742D252525B20A3CDD58929E1"
              }
 }
