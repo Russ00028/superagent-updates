@@ -1,13 +1,13 @@
 {
-    "version":  "2.3.7",
+    "version":  "2.4.0",
     "released":  "2026-11-22",
-    "notes":  "v2.3.7 - Master rate limiting removed",
+    "notes":  "v2.4.0 - Full build release. Master: rate limiting removed.",
     "code":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.7/MPOMasterv2-code.zip",
-                 "sha256":  "0363D2DB6369FE97E0BC95467BC497C27D350DA3F2919194C1BC28256B530BC8"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.4.0/MPOMasterv2-code.zip",
+                 "sha256":  "6E3ED2C45C619AFEBCED19A6CE17D344F8F67C11FDD93BE3B44A6ECEF5ECE92D"
              },
     "full":  {
-                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.3.7/MPOMasterv2-full.zip",
-                 "sha256":  "83C5538BF363CF7775ABF24FE82424AAB2A00836F42FD7470A97C425CBED78C7"
+                 "url":  "https://github.com/Russ00028/superagent-updates/releases/download/v2.4.0/MPOMasterv2-full.zip",
+                 "sha256":  "0B6CA2CFD0655AE8CD132736787FE5FF88093E4ACACFD281DC692A75F8696B05"
              }
 }
